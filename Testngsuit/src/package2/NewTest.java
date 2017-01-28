@@ -17,6 +17,7 @@ public class NewTest {
 	  System.out.println( driver.getTitle());
 	  
 	  System.out.println( "changeses1");
+	  System.out.println( "changeses2");
 	  
 	  
   }
